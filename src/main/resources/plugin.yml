@@ -1,0 +1,11 @@
+name: CXN-Craftattack
+version: '1.0-SNAPSHOT'
+main: dev.dalol.cXNCraftattack.CXNCraftattack
+api-version: '1.21'
+commands:
+  afk:
+  status:
+  testtimer:
+    permission: cxnca.admin.timer
+  kick:
+    permission: cxnca.admin.kick

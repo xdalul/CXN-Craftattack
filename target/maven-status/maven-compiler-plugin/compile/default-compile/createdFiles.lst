@@ -1,0 +1,12 @@
+dev\dalol\cXNCraftattack\listener\AFKEvents.class
+dev\dalol\cXNCraftattack\elytra\GetElytra.class
+dev\dalol\cXNCraftattack\commands\StatusCommand.class
+dev\dalol\cXNCraftattack\commands\AFKCommand.class
+dev\dalol\cXNCraftattack\CXNCraftattack$1.class
+dev\dalol\cXNCraftattack\commands\TestTimer.class
+dev\dalol\cXNCraftattack\listener\JoinQuitListener.class
+dev\dalol\cXNCraftattack\CXNCraftattack.class
+dev\dalol\cXNCraftattack\elytra\ElytraPos2.class
+dev\dalol\cXNCraftattack\elytra\MoveEvent.class
+dev\dalol\cXNCraftattack\commands\admin\KickCommand.class
+dev\dalol\cXNCraftattack\elytra\ElytraPos1.class
